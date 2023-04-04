@@ -42,7 +42,7 @@ import java.util.Scanner;
             } else {
                 double kembalian = uangBayar - totalHarga;
                 System.out.println("Kembalian: Rp. " + kembalian);
-                System.out.println("Terima kasih yaa sudah beli kopi");
+                System.out.println("Terima kasih yaaa sudah beli kopi");
             }
         }
 
