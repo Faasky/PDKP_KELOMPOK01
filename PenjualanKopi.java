@@ -57,7 +57,7 @@ import java.util.Scanner;
 
                 System.out.print("Pilih kopi (1-4): ");
                 pilihan = input.nextInt();
-                System.out.print("Jumlah yang ingin dibeli: ");
+                System.out.print("Jumlah yang ingin dibeliii: ");
                 jumlah = input.nextInt();
 
                 double totalHarga = hitungHarga(pilihan, jumlah);
